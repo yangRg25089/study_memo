@@ -51,8 +51,8 @@
  ![](https://www.jalan.net/jalan/img/1/spot/0151/KXL/22302ca3280151227_4.jpg)
 
 
-- [ ] ### 白浜大浜海水浴場
-*美しい白砂とその広さで、伊豆随一の海水浴場です。
+- [ ] 白浜大浜海水浴場  
+ 美しい白砂とその広さで、伊豆随一の海水浴場です。
 > 下田駅からバスで13分
 
  ![](https://www.shimoda-city.info/shimoda/sea/img/shirahamaoohama/img01_02.jpg)
